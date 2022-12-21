@@ -15,17 +15,21 @@
 <body>
   
   <nav class="navbar navbar-expand-sm navbar-dark bg-dark" >
-    <a href="#" class="navbar-brand">Academind</a>
+    <a href="#" class="navbar-brand">My Brand</a>
     <button class="navbar-toggler" data-toggle="collapse" data-target="#navbarNav">
     <span class="navbar-toggler-icon"></span>
     </button>
     <div class="collapse navbar-collapse" id="navbarNav">
       <ul class="navbar-nav">
         <li class="nav-item">
-          <a href="#" class="nav-link" >Users</a>
+          <a href="#" class="nav-link" >Home</a>
         </li>
         <li class="nav-item">
-          <a href="#" class="nav-link">Products</a>
+          <a href="#" class="nav-link">About</a>
+          <li class="nav-item">
+            <a href="#" class="nav-link">Contacts</a>
+            <li class="nav-item">
+              <a href="#" class="nav-link">Info</a>
           </li>
           </ul>
           </div>
